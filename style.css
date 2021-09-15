@@ -1,0 +1,17 @@
+body {
+padding: 0px;
+}
+
+header{
+    background-color:pink;
+    color:white;
+    font-weight:bold;
+    position:fixed;
+}
+
+li a {
+    color:white; 
+    text-decoration:none;
+}
+
+li {}
